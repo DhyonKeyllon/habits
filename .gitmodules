@@ -1,3 +1,11 @@
 [submodule "web"]
   path = "web"
   url = https://github.com/DhyonKeyllon/habits-web
+
+[submodule "mobile"]
+  path = "mobile"
+  url = https://github.com/DhyonKeyllon/habits-mobile
+
+[submodule "server"]
+path = "server"
+url = https://github.com/DhyonKeyllon/habits-server
