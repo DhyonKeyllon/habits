@@ -7,5 +7,5 @@
   url = https://github.com/DhyonKeyllon/habits-mobile
 
 [submodule "server"]
-path = "server"
-url = https://github.com/DhyonKeyllon/habits-server
+  path = "server"
+  url = https://github.com/DhyonKeyllon/habits-server
